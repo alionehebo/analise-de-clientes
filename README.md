@@ -1,5 +1,9 @@
 <!-- Badge (Botão) da app -->
-[![Streamlit App](https://streamlit.io)](https://datacustomer.streamlit.app/)
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red?logo=streamlit)
+
+* 🚀 **App Interativo (Streamlit):** [Acessar Dashboard Web](https://datacustomer.streamlit.app/)
 
 # 📊 Análise de Cancelamento de Clientes
 
@@ -21,8 +25,21 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
 ## 📈 3. Principais Insights de Negócio
 *Quais foram as grandes descobertas dos dados?*
 
-1. **Problema do Suporte:** Clientes que abriram mais de 4 vezes no suporte e com atraso de 25-30 dias têm **80% de probabilidade** de cancelar nos 30 dias seguintes.
-2. **Tipo de Contrato:** Contratos mensais apresentam uma taxa de churn **100%** que representa o maior desafio de retenção da empresaanálise.
+1. **Tipo de Contrato:** Contratos mensais apresentam uma taxa de churn **100%** que representa o maior desafio de retenção da empresaanálise.
+2. **Problema do Suporte:** | **94,5% a 100% de Churn** a partir da 5ª ligação | O cliente que liga 5 ou mais vezes para o Call Center atinge o ponto de ruptura e abandona a plataforma. |
+| **3. Inadimplência Prolongada** | **100% de Churn** após 20 dias de atraso | Atrasos acima de 20 dias resultam em perda total do cliente (possível corte automático de sistema ou desistência). |
+
+Ao aplicar filtros estratégicos na base para simular a resolução desses gargalos operacionais e comerciais:
+1. Reestruturação do plano mensal;
+2. Resolução de problemas no suporte em até 4 ligações;
+3. Régua de cobrança preventiva para evitar pendências acima de 20 dias.
+
+```text
+[Cenário Atual]   Taxa de Churn: 56.8%  ████████████████████████ (Crítico)
+[Cenário Ideal]   Taxa de Churn: 18.4%  ████████ (Saudável)
+-------------------------------------------------------------------------
+Impacto Direto:   Queda de 38.4 pontos percentuais no Churn.
+Clientes Salvos:  26.269 clientes preservados na base.
 ---
 
 ## 🛠️ 4. Stack Tecnológica e Metodologia
@@ -65,9 +82,11 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
    ```
 
 ---
-## 👤 7. Contacto e Links
+## 👤 7. Contactos
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alione-hebo-ab464b2b4/)
+👨‍💻 Autor
+Desenvolvido por **Alione Hebo**
 
-[![E--mail](https://shields.io)](mailto:alionehebo05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alione-hebo-ab464b2b4/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alionehebo05@gmail.com)
