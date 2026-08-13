@@ -66,6 +66,15 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
 
 ---
 ## 👤 7. Contacto e Links
-Sinta-se a vontade para me contactar em nos seguintes meios:
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alione-hebo-ab464b2b4/)
-[![E-mail](https://shields.io)](mailto:alionehebo05@gmail.com)
+
+## 👤 7. Contacto e Conexões
+
+<p>
+  <a href="https://www.linkedin.com/in/alione-hebo-ab464b2b4/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:alionehebo05@gmail.com">
+    <img src="https://shields.io" alt="E-mail">
+  </a>
+</p>
+
