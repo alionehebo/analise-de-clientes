@@ -67,14 +67,7 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
 ---
 ## 👤 7. Contacto e Links
 
-## 👤 7. Contacto e Conexões
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alione-hebo-ab464b2b4/)
 
-<p>
-  <a href="https://www.linkedin.com/in/alione-hebo-ab464b2b4/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:alionehebo05@gmail.com">
-    <img src="https://shields.io" alt="E-mail">
-  </a>
-</p>
+[![E--mail](https://shields.io)](mailto:alionehebo05@gmail.com)
 
