@@ -3,14 +3,9 @@
 
 # 📊 Análise de Cancelamento de Clientes
 
-<!-- Badge oficial do projeto online -->
-[![Streamlit App](https://streamlit.io)](https://streamlit.app)
-
 ## 🎯 1. O Problema de Negócio (Impacto)
 
 A retenção de clientes é a métrica mais crítica para a sustentabilidade da empresa. Este projeto foi desenvolvido para identificar os fatores que levam os clientes a cancelar o serviço (churn) e criar uma ferramenta que permita à gestão da empresa compreender os factores que influenciam no cancelamento de clientes e desse modo melhorar na eficiência operacional.
-
-* **Impacto Estimado:** Uma redução de **5% na taxa de churn** representa uma poupança anual estimada de `[Inserir Valor, ex: 120.000€]` em receita recorrente.
 ---
 
 ## 🚀 2. A Solução (A Aplicação Streamlit)
@@ -24,14 +19,14 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
 ---
 
 ## 📈 3. Principais Insights de Negócio
-*Quais foram as grandes descobertas dos dados? (O seu valor como analista está aqui)*
+*Quais foram as grandes descobertas dos dados?*
 
 1. **Problema do Suporte:** Clientes que abriram mais de 4 vezes no suporte e com atraso de 25-30 dias têm **80% de probabilidade** de cancelar nos 30 dias seguintes.
 2. **Tipo de Contrato:** Contratos mensais apresentam uma taxa de churn **100%** que representa o maior desafio de retenção da empresaanálise.
 ---
 
 ## 🛠️ 4. Stack Tecnológica e Metodologia
-*O que usou para construir a solução?*
+*Ferramentas usadas*
 
 * **Linguagem:** Python
 * **Análise de Dados:** Pandas, NumPy
@@ -45,7 +40,7 @@ Desenvolvi uma aplicação interativa que transforma dados complexos em decisõe
 
 ```text
 ├── app.py               # Código principal da aplicação Streamlit
-├── dados_tratados.csv   # Bases de dados (anonimizadas)
+├── dados_tratados.csv   # Bases de dados (dataset no formato CSV)
 └── README.md            # Documentação principal
 ├── requirements.txt     # Dependências do projeto
 
